@@ -3,7 +3,6 @@ package kata5;
 public class Kata5 {
 
     public static void main(String[] args) {
-        SelectApp app = new SelectApp();
-        app.selectAll();
+        CreateTable.createNewTable();
     }
 }
